@@ -17,7 +17,7 @@
 > ## Introdução
 <p>
     Projeto de estágio obrigatório para a conclusão do curso de Informática na instituição Centro Federal de Educação Tecnológica celso Suckow da Fonseca 
-    (CEFET-RJ/MARACANÃ), sob a supervisão do professor Eduardo Bezerra da Silva.
+    (CEFET-RJ/MARACANÃ), sob a orientação do professor Rafael Castaneda Ribeiro (CEFET-RJ) supervisão do professor Eduardo Bezerra da Silva (CEFET-RJ).
     <div align=right> 
         <b>Dúvidas</b> <br>
         <a href = "https://github.com/AlexGenuin0/radargraph/issues/new"><img src="https://img.shields.io/badge/-Issues-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -31,7 +31,9 @@
 
 > ## Sobre
 <p>
-    
+    Esse repositório é fruto das atividades realizadas por mim durante o estágio interno do qual fiz parte. Trata-se do desenvolvimento de um sistema que leia e processe dados do dataset TAASRAD19, que contém dados meteorológicos.
+    Os arquivos gerados por esse programa são gráficos com as médias de refletividade diárias para um período e um local determinados por prompt de comando. 
+    A princípio, também seria implementado um conjunto de funções que fosse capaz de criar uma animação com a progressão dessa refletividade ao longo do tempo. Contudo, por questões de incompatibilidade, não foi possível desenvolver isso durante o estágio.
 </p>
 
 <p align="right"><a href="#RADARGRAPH">Topo ↑</a></p>
