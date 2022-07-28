@@ -52,6 +52,9 @@
 
 
 > ## Mais informações
-
+<ul>
+    <li><a href='https://www.nature.com/articles/s41597-020-0574-8'>Radar TAASRAD19</a></li>
+    <li><a href='https://zenodo.org/record/3866204#.YuK0fDTMKMp'>Download dos arquivos do Radar</a></li>
+</ul>
 
 <p align="right"><a href="#RADARGRAPH">Topo ↑</a></p>
