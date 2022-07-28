@@ -1,19 +1,13 @@
 # Quantos dias tem o mês
 def qdias(year, month):
-    for i in ['01', '03', '05', '08', '10', '12']:
-        if month == i:
-            return 31
-
-    for i in ['04', '06', '07', '09', '11']:
-        if month == i:
-            return 30
-
-    if month == '02':
-        if int(year) % 100 == 0:
-            if int(year) % 400 == 0:
+    if month in [1, 3, 5, 8, 10, 12]: return 31
+    if month in [4, 6, 7, 9, 11]: return 30
+    if month == 2:
+        if year % 100 == 0:
+            if year % 400 == 0:
                 return 29
             return 28
-        elif int(year) % 4 == 0:
+        elif year % 4 == 0:
             return 29
         else:
             return 28
@@ -46,18 +40,19 @@ def lhoras(mr):
 
 # Nomeia os meses
 def monthName(m):
+    m = int(m)
     month = {
-        '01': 'January',
-        '02': 'February',
-        '03': 'March',
-        '04': 'April',
-        '05': 'May',
-        '06': 'June',
-        '07': 'July',
-        '08': 'August',
-        '09': 'September',
-        '10': 'October',
-        '11': 'November',
-        '12': 'December'
+        1: 'January',
+        2: 'February',
+        3: 'March',
+        4: 'April',
+        5: 'May',
+        6: 'June',
+        7: 'July',
+        8: 'August',
+        9: 'September',
+        10: 'October',
+        11: 'November',
+        12: 'December'
     }
     return month.get(m)
