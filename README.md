@@ -40,7 +40,7 @@
     A princípio, também seria implementado um conjunto de funções que fosse capaz de criar uma animação com a progressão dessa refletividade ao longo do tempo. Contudo, por questões de incompatibilidade, não foi possível desenvolver isso durante o estágio.
 </p>
 <p>
-    Para usar o programa, é importante baixar o dataset TAASRAD19. O link pra isso pode ser encontrado em <a href="##Mais informações">Mais informações</a>
+    Para usar o programa, é importante baixar o dataset TAASRAD19. O link pra isso pode ser encontrado em <a href="#Mais-informações">Mais informações</a>
 </p>
 
 <p align="right"><a href="#RADARGRAPH">Topo ↑</a></p>
