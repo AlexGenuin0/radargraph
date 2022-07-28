@@ -42,6 +42,7 @@
 
 > ## Construído com
 <ul>
+    <li><a href='https://docs.python.org/3/library/argparse.html'>Argparse</a></li>
     <li><a href='https://matplotlib.org/stable/index.html'>Matplotlib</a></li>
     <li><a href='https://numpy.org'>NumPy</a></li>
     <li><a href='https://docs.python.org/3/library/os.html'>OS</a></li>
