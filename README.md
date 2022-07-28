@@ -31,13 +31,16 @@
 
 > ## Sobre
 <p>
-    Esse repositório é fruto das atividades realizadas por mim durante o estágio interno do qual fiz parte. Trata-se do desenvolvimento de um sistema que leia e processe dados do dataset TAASRAD19, que contém dados meteorológicos.
+    Esse repositório é fruto das atividades realizadas por mim durante o estágio interno do qual fiz parte. Trata-se do desenvolvimento de um sistema que leia e processe informações do dataset TAASRAD19, que contém dados meteorológicos.
 </p>
 <p>
     Os arquivos gerados por esse programa são gráficos com as médias de refletividade diárias para um período e um local determinados por prompt de comando.
 </p>
 <p>
     A princípio, também seria implementado um conjunto de funções que fosse capaz de criar uma animação com a progressão dessa refletividade ao longo do tempo. Contudo, por questões de incompatibilidade, não foi possível desenvolver isso durante o estágio.
+</p>
+<p>
+    Para usar o programa, é importante baixar o dataset TAASRAD19. O link pra isso pode ser encontrado em <a href="#Mais informações">Mais informações</a>
 </p>
 
 <p align="right"><a href="#RADARGRAPH">Topo ↑</a></p>
